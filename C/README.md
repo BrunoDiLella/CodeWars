@@ -11,3 +11,7 @@ https://www.codewars.com/kata/5813d19765d81c592200001a
 Sum of all the multiples of 3 or 5
 
 https://www.codewars.com/kata/57f36495c0bb25ecf50000e7
+
+Make a function that does arithmetic!
+
+https://www.codewars.com/kata/583f158ea20cfcbeb400000a
