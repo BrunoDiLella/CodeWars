@@ -15,3 +15,7 @@ https://www.codewars.com/kata/57f36495c0bb25ecf50000e7
 Make a function that does arithmetic!
 
 https://www.codewars.com/kata/583f158ea20cfcbeb400000a
+
+Mumbling
+
+https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
