@@ -19,3 +19,7 @@ https://www.codewars.com/kata/583f158ea20cfcbeb400000a
 Mumbling
 
 https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
+
+Convert a String to a Number!
+
+https://www.codewars.com/kata/544675c6f971f7399a000e79
