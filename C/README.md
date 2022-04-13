@@ -27,3 +27,7 @@ https://www.codewars.com/kata/544675c6f971f7399a000e79
 Encrypt this!
 
 https://www.codewars.com/kata/5848565e273af816fb000449
+
+Duplicate Encoder
+
+https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
